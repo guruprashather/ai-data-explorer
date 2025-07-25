@@ -4,3 +4,4 @@ matplotlib
 seaborn
 sweetviz
 scikit-learn
+setuptools
